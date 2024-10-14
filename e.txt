@@ -2,9 +2,9 @@
 using namespace std;
 ## New changes added here........
 int main() {
-  cout << "Webschool!";
+  cout << "I love PHP!";
   return 0;
 }
 my sixth commit on master
 next file is Feature3
-my seventh commit on master
+get Age and Name
