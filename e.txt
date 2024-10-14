@@ -2,9 +2,12 @@
 using namespace std;
 ## New changes added here........
 int main() {
+
   cout << "Welcome to C++ Programming !";
+  cout << "I love PHP!";
+
   return 0;
 }
 my sixth commit on master
 next file is Feature3
-The seventh line has been modified
+get Age and Name
